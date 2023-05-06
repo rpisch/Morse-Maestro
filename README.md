@@ -23,6 +23,7 @@ The Encoder takes a message, converts it into Morse characters via a lookup tabl
 
 
 The Decoder uses signal processing to convert an audio signal into decoded text. Its steps are: 
+
 [
 Record the audio
 
