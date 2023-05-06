@@ -22,8 +22,8 @@ The Interface is run on Custom Tkinter commands
 The Encoder takes a message, converts it into Morse characters via a lookup table, creates an accurate bitstream, and plays the bitstream as a sine wave at the user set speed
 
 
-The Decoder uses signal processing to convert an audio signal into decoded text. Its steps are:
-
+The Decoder uses signal processing to convert an audio signal into decoded text. Its steps are: 
+[
 Record the audio
 
 Filter frequencies not equal to 1000 using a bandpass filter
@@ -41,7 +41,7 @@ Convert to Morse characters
 Convert Morse characters to ASCII characters
 
 Return text to the interface
-
+]
 
 The database saves conversation of the encoder and decoder into a string of messages.
 
