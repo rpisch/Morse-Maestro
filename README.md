@@ -1,7 +1,7 @@
 Code Created for the Morse Maestro device, meant to run Libre Computer Board system or on a laptop with accurate Morse code audio signals played. Created by Ryan Pischinger and Braden Karley.
 
 
-This respository has 2 code segments: the full code with interface, encoder, and decoder, and the code to test the decoder which shows plots of the different stages of signal processing.
+This respository has 2 code segments: the full code, and the code to test the decoder which shows plots of the different stages of signal processing.
 
 
 How to use:
